@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from pandas.tseries.offsets import Hour
-import matplotlib.pyplot as plt
+import matplotlib as plt
 import seaborn as sns
 from streamlit.elements.arrow import Data
 
