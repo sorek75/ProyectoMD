@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from streamlit.elements.arrow import Data
-import awesome_streamlit as ast
+
 
 def write():
     st.title('Seleccion De Caracteristicas')

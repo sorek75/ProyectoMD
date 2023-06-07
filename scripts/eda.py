@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from streamlit.elements.arrow import Data
-import awesome_streamlit as ast
+
 
 # pylint: disable=line-too-long
 def write():
