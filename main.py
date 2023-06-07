@@ -1,8 +1,6 @@
 from os import write
-from awesome_streamlit.shared.components import write_page
 import streamlit as st
 
-import awesome_streamlit as ast
 import scripts.acercade
 import scripts.eda
 import scripts.acd
